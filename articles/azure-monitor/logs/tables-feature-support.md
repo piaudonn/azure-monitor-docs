@@ -7,7 +7,7 @@ ms.date: 07/10/2022
 
 # Tables that support transformations in Azure Monitor Logs
 
-The following list identifies the tables in a [Log Analytics workspace](log-analytics-workspace-overview.md) that support [transformations](../essentials/data-collection-transformations.md).
+The following list identifies the tables in a [Log Analytics workspace](log-analytics-workspace-overview.md) that support workspace [transformations](../essentials/data-collection-transformations.md#workspace-transformation-dcr).
 
 > [!NOTE]
 > We are in a process of adding support for more tables. Please check this article regularly. 
